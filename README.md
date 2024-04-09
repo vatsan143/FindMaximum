@@ -15,7 +15,7 @@ i)	# To find the maximum of marks using the list method sort.
 Program to mark the maximum of marks using the list method sort.
 
 
-Program Developed by: srivatsan G 
+Program Developed by: Srivatsan G 
 
 
 Register No:212223230216
