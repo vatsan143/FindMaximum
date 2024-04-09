@@ -33,7 +33,7 @@ ii)	 To find the maximum marks using the list method max().
 Program to find the maximum marks using the list method max().
 
 
-Program developed by: srivatsan G 
+Program developed by: Srivatsan G 
 
 
 Register No: 212223230216
